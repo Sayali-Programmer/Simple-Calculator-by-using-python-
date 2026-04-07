@@ -1,0 +1,10 @@
+''' Simple Calculator Program
+ Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+ Written in Python for learning and demonstration purposes.'''
+
+a=33
+b=2
+print("the value of",a,"+",b,"is:",a+b)
+print("the value of",a,"-",b,"is:",a-b)
+print("the value of",a,"*",b,"is:",a*b)
+print("the value of",a,"/",b,"is:",a/b)
